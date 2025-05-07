@@ -124,4 +124,5 @@
 
 ![](Summing-counter-with-parallel-carry.png)
 
+![](Reversible-counter-with-through-carry.png)
 
